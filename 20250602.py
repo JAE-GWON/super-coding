@@ -1,4 +1,4 @@
-#함수 정의하기기
+#함수정의하기기
 def plus(num1, num2):
     return num1 + num2
 
